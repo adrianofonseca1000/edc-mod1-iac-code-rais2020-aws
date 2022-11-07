@@ -4,8 +4,6 @@
 
 [![Deploy](https://github.com/adrianofonseca1000/edc-mod1-iac-code-rais2020-aws/actions/workflows/deploy.yaml/badge.svg)](https://github.com/adrianofonseca1000/edc-mod1-iac-code-rais2020-aws/actions/workflows/deploy.yaml)
 
-## Fundamentos de Arquitetura de Dados em Nuvem
-
 # Use Cases a serem trabalhos
 
 ## 1 - Data Lake, EMR, GLUE e ATHENA:
